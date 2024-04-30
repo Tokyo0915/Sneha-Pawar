@@ -51,3 +51,27 @@
     <a href="#"><img alt="ReactJs" src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white"></a>
     <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
 </p>
+<h3>🧰 Developer Tools</h3>
+<p>
+    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white"></a>
+    <a href="#"><img alt="Powershell" src="https://img.shields.io/badge/Powershell-5391FE.svg?logo=powershell&logoColor=white"></a>
+</p>
+<h3>🧩 Cloud Technologies & Frameworks</h3>
+<p>
+	<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Conflence" src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"></a>
+    <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white"></a>
+    <a href="#"><img alt="REST" src="https://img.shields.io/badge/REST-61DAFB.svg?logo=rest&logoColor=black"></a>
+    <a href="#"><img alt="Agile Framework" src="https://img.shields.io/badge/Agile_Framework-009FDA.svg?logo=agile&logoColor=white"></a>
+</p>
+<h3>📊 Database Management</h3>
+<p>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+</p>
