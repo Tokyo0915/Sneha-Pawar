@@ -8,3 +8,9 @@
 <p>
     During my professional tenure, I held the position of Senior Software Engineer at Persistent Systems. Here, I played a pivotal role in crafting a media dashboard reminiscent of platforms like Netflix and Amazon. This involved extensive involvement in requirement elicitation and client interactions. Furthermore, I acquired practical insights through an internship at Zestl Software Pvt. Ltd., where my focus was on machine learning applications and proficient data wrangling techniques.
 </p>
+<p>
+    Connect with me on
+    <a href="https://www.linkedin.com/in/snehabpawar/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>.
+</p>
