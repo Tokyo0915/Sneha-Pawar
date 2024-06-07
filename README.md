@@ -20,7 +20,7 @@
     <strong>🇺🇸 California State University, Long Beach</strong>
     <br>
     Master of Science in Computer Science
-    <em>CGPA: 3.6/4</em>
+    <em>CGPA: 3.5/4</em>
     <br>
     Long Beach, USA
     <br>
